@@ -1,0 +1,10 @@
+2
+Bonab, 4, 5, 3000
+kabab makhsoos, 70000, irani
+jooje makhsoos, 45000, irani
+jooje mamooli, 30000, irani
+sabzi polo ba mahi, 40000, daryaee
+Hani, 3, 4, 4000
+Jooje zaferani, 50000, irani
+Morghe sookhari, 40000, fastfood
+Kabab koobide, 50000, irani

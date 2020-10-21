@@ -1,0 +1,2 @@
+[OrderEntityManager] [main] TRACE= new order added to DB: orderNumber:25 phoneNumber:9156648370 orderDate:2020-10-12
+[OrderEntityManager] [main] TRACE= order's foods added to DB: orderNumber:25 foodNumber:5

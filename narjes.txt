@@ -1,0 +1,4 @@
+Time of order: 2020-10-09 22:31:43.026
+Foods
+[Name: jooje mamooli  Price: 30000  Category: irani  Count: 1]
+Total Price= 30000
